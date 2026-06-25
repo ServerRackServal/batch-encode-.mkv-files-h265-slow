@@ -1,4 +1,4 @@
-Batch Encode .mkv Files to h265 Script Read Me
+Batch Encode .mkv Files to h265 Script README
 
 **Prerequisites**
 - Your OS should be Linux. I do not use Windows or MacOS and cannot guarantee success in these environments.
