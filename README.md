@@ -33,7 +33,7 @@ program more than once without moving any videos. Run at your own risk.
 
 **Notes**
 
-- CRF value is set to _22_. 18-22 is considered visually lossless for h265. You can put a higher number to increase compression and lower the time spent compressing, but the video may lose visual quality.
+- CRF value is set to _18_. 18-22 is considered visually lossless for h265. You can put a higher number to increase compression and lower the time spent compressing, but the video may lose visual quality.
 - Valid CRF Values: (1 - 51)
 - All attached audio tracks will be carried over to the new file.
 - All attached subtitle tracks will carried over to the new file.
